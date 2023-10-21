@@ -1,5 +1,7 @@
 # Note-Taker-App
 
+
+
 ## Description
 
 - What was your motivation?
@@ -20,7 +22,8 @@ storing user data in real time to utilize express.js client side servers
 ## Installation
 
 follow my git repo link in the html or deployed link to access the rest of my work both future and past.
-
+https://dashboard.heroku.com/apps/mighty-refuge-69273/deploy/github
+https://github.com/jakobpfeifer135/Note-Taker-App
 ## Usage
    ![completed project](<./images/Screenshot 2023-10-20 201949.png>)
    ![completed project](<./images/Screenshot 2023-10-20 202019.png>)
