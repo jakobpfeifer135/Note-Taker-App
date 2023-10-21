@@ -33,7 +33,7 @@ https://github.com/jakobpfeifer135/Note-Taker-App
 
 Sheetal Srikumar Tutor
 
-
+used a large portion of code from the mini project related to this module!
 
 ## License
 
