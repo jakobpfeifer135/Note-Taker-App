@@ -1,7 +1,7 @@
 const express = require('express');
 const apiRoutes = require('./routes/apiRoutes.js');
 const htmlRoutes = require('./routes/htmlroutes.js');
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 // requires all of the other documents parents so that we don't have to require all children files such as paths and the db.json file
 
